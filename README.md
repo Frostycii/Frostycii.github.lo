@@ -1,2 +1,2 @@
-# Frostycii.github.lo
+# frostycii.github.io
 Official website for frosty cii
